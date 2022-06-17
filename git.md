@@ -3,7 +3,9 @@
 ## Git
 버전관리 도구
 ### Reference site
-1.  [왕초보를 위한 깃과 깃허브 사용 튜토리얼]( https://xiubindev.tistory.com/113)
+- [왕초보를 위한 깃과 깃허브 사용 튜토리얼]( https://xiubindev.tistory.com/113)
+- [깃 메뉴얼](https://git-scm.com/book/ko/v2/)
+
 ### 개 요
 1. Git의 개념도
 ![Git 개념도](img/git_concept_dgr.png)
