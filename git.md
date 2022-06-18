@@ -88,12 +88,13 @@ git pull
 ## Other
 ### Configure
 ##### Batch File 만들기
-batch file의 내용은 아래와 같습니다.
+cml 입출력시 환경을 설정하기 위해 배치파일을 만듭니다. 깃을 학습하기 위한 설정을 하면서 저는 아래와 같이 batch file을 작성해 보았습니다.
 ```
 ECHO OFF
 CLS
 cd [프로젝트의 main directory]
 F: (프로젝의 drive로 이동)
+SET LC_ALL=ko_KR.UTF-8
 ECHO Welcome to first regeion for Developer.
 ECHO ---
 ECHO ON
